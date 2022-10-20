@@ -3,7 +3,8 @@
 
 <head>
 
-
+  <?php  include 'backend.php';  ?>
+  
   <title>Main Page</title>
 
   <!-- css for the page -->
@@ -12,9 +13,13 @@
 </head>
 
 <body>
-    <div id="container"> 
-        <h1>New Project.</h1>
+    <div id="contentContainer"> 
+  
+          
+      </div>
+      <hr>
     </div>
+
 </body>
 
-</html>
+</html> 
